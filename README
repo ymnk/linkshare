@@ -1,0 +1,4 @@
+This program is slightly modified version of Jorge Oritz's LinkShare[1] 
+to run on Lift 1.0.
+
+[1] http://scala-blogs.org/2007/12/dynamic-web-applications-with-lift-and.html
