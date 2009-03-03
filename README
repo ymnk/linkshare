@@ -1,4 +1,6 @@
-This program is slightly modified version of Jorge Oritz's LinkShare[1] 
-to run on Lift 1.0.
+This program is a slightly modified version of Jorge Oritz's LinkShare[1] 
+to run on Lift 1.0.  LinkShare is a really good example to demonstrate
+the CometActor, and all credits should go to JorgeOritz[2].
 
 [1] http://scala-blogs.org/2007/12/dynamic-web-applications-with-lift-and.html
+[2] http://www.blogger.com/profile/14454965475839432618
